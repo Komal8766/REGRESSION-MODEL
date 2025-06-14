@@ -24,3 +24,5 @@ if st.button("Predict Package"):
     
     # Show the result
     st.success(f"Predicted Package: {predicted_value:,.2f} LPA")
+
+    
